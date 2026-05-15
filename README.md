@@ -48,4 +48,4 @@ src/
    \`\`\`bash
    npm run dev
    \`\`\`
-3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3. Open [https://claude.ai/public/artifacts/c129e4ff-29aa-4c0b-90d9-be88b715d560] with your browser to see the result.
